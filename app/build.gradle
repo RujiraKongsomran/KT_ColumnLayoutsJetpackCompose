@@ -68,7 +68,7 @@ dependencies {
     // Integration with observables
     implementation 'androidx.compose.runtime:runtime-livedata:1.0.0-beta02'
     implementation 'androidx.compose.runtime:runtime-rxjava2:1.0.0-beta02'
-
     // UI Tests
     androidTestImplementation 'androidx.compose.ui:ui-test-junit4:1.0.0-beta02'
+
 }
